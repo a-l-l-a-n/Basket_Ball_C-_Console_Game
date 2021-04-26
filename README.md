@@ -3,7 +3,7 @@ A single player basket ball game with three levels,sublevels and also with three
 
 1. Make sure to include graphics.h library to your program [Loading screen for this game is done using grahics.h]
 2. Run the program using any c++ compiler
-3. Enjoy the game
+3. Enjoy the game directly by using the .exe in the debug folder
 
 # Game-Images:
 ![alt text](https://github.com/a-l-l-a-n/Basket_Ball_Console_Game/blob/main/Images/menu_screen.jpg)
