@@ -7,4 +7,4 @@ A single player basket ball game with three levels,sublevels and also with three
 
 # Game-Images:
 ![alt text](https://github.com/a-l-l-a-n/Basket_Ball_Console_Game/blob/main/Images/menu_screen.jpg)
-![alt text](https://github.com/a-l-l-a-n/Block-Breaker-Game-Unity/blob/main/Game_Images/Game_Screen_2.png)
+![alt text](https://github.com/a-l-l-a-n/Basket_Ball_Console_Game/blob/main/Images/game_screen.jpg)
